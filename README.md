@@ -84,7 +84,7 @@ Interactively asks the user three questions about their open-source values and c
 
 ### Step 1 - Clone the repository
 ```bash
-git clone https://github.com/Xylarian/oss-audit-24BCY10080.git
+git clone https://github.com/diksha24bce10589-collab/CaseStudy-.git
 cd oss-audit-24BCE10589
 ```
 
