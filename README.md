@@ -1,6 +1,6 @@
 # oss-audit-24BCE10589
 
-## Open Source Software Audit — Capstone Project
+## Open Source Software Audit — 
 **Course:** Open Source Software  
 **Student:** Diksha Choudhary 
 **Registration Number:** 24BCE10589  
@@ -85,7 +85,7 @@ Interactively asks the user three questions about their open-source values and c
 ### Step 1 - Clone the repository
 ```bash
 git clone https://github.com/Xylarian/oss-audit-24BCY10080.git
-cd oss-audit-24BCY10080
+cd oss-audit-24BCE10589
 ```
 
 ### Step 2 - Install Apache HTTP Server
